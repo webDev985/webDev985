@@ -14,9 +14,8 @@ Frontend Developer | React | JavaScript | HTML | CSS
 
 ---
 
-<img align="right" alt="Coding Animation" width="380" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f636f64696e672d667265616b2e676966">
 
-## 👨‍💻 Professional Summary (ATS Optimized)
+## 👨‍💻 Professional Summary 
 
 Detail-oriented **Frontend Developer** with strong hands-on experience in **HTML, CSS, JavaScript, React, and Node.js**.  
 Skilled in developing **responsive UI**, reusable components, and performance-optimized web applications.  
@@ -24,7 +23,7 @@ Passionate about clean code, modern frontend tools, and continuous learning.
 
 ---
 
-## 🔑 Core Skills (ATS Keywords)
+## 🔑 Core Skills 
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js  
 - **Styling:** Responsive Design, Flexbox, CSS Grid  
@@ -73,7 +72,7 @@ Passionate about clean code, modern frontend tools, and continuous learning.
 
 ---
 
-## 📊 GitHub Analytics (Animated)
+## 📊 GitHub Analytics 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=webdev&show_icons=true&theme=tokyonight" height="165"/>
@@ -86,7 +85,7 @@ Passionate about clean code, modern frontend tools, and continuous learning.
 
 ---
 
-## 🚀 Career Objective (Recruiter Focused)
+## 🚀 Career Objective 
 
 Seeking an **entry-level frontend developer role** where I can contribute to real-world projects, collaborate with experienced teams, and continuously enhance my skills in modern web development.
 
