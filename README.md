@@ -59,12 +59,16 @@ Passionate about clean code, modern frontend tools, and continuous learning.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/shivam kumar" target="_blank">
+<a href="[https://linkedin.com/in/shivamkumar985"] target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://instagram.com/_shivam_singh_1.1" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<p align="left">
+<a href="mailto:shivamsingh.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</p>
+
+
 <a href="https://fb.com/shivam singh" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
 </a>
