@@ -83,9 +83,6 @@ Passionate about clean code, modern frontend tools, and continuous learning.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdev&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=webdev&theme=tokyonight"/>
-</p>
 
 ---
 
