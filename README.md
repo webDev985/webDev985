@@ -63,7 +63,7 @@ Passionate about clean code, modern frontend tools, and continuous learning.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <p align="left">
-<a href="mailto:shivamsingh.dev@gmail.com">
+<a href="mailto:shivam985kumar@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
